@@ -1,0 +1,13 @@
+
+disease_name,symptoms,cause,treatment,prevention
+Potato Early Blight,brown circular spots with rings,fungus alternaria solani,apply copper fungicide and remove infected leaves,avoid overhead watering and maintain spacing
+Potato Late Blight,water-soaked lesions that turn brown,oomycete pathogen p.infestans,use chlorothalonil fungicide and destroy infected plants,avoid wet conditions and rotate crops
+Tomato Bacterial Spot,small brown leaf spots,bacteria xanthomonas,use copper-based spray and remove infected leaves,avoid touching wet plants and disinfect tools
+Tomato Early Blight,brown spots on lower leaves,fungus alternaria,use fungicide and prune lower leaves,keep plants dry and ensure ventilation
+Tomato Leaf Mold,yellow spots on leaf surface,fungus passalora,use sulfur or copper fungicide and remove infected leaves,keep humidity low and improve air circulation
+Pepper Bell Bacterial Spot,small water-soaked spots turn brown,bacteria xanthomonas,use copper spray and resistant varieties,disinfect tools and avoid overhead irrigation
+Pepper Bell Healthy,no symptoms,no cause,no treatment required,regular monitoring and good farming practices
+Corn Common Rust,orange/red rust pustules,fungus puccinia sorghi,apply fungicide during early infection,use resistant corn hybrids
+Grape Black Rot,black circular lesions,fungus guignardia bidwellii,use fungicide and remove infected fruit,prune vines and increase sunlight
+Apple Scab,olive green/brown spots,fungus venturia inaequalis,apply fungicide and remove infected leaves,avoid overhead watering
+Strawberry Leaf Scorch,red-purple spots that turn brown,fungus diplocarpon earlianum,use appropriate fungicide,avoid overcrowding and ensure airflow
